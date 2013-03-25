@@ -11,7 +11,7 @@ Create an account at http://openshift.redhat.com/ and install the client tools (
 
 Create a PHP application
 
-	rhc app create limesurvey php-5 mysql-5 --from-code=https://github.com/openshift/limesurvey-quickstart
+	rhc app create limesurvey php-5 mysql-5 --from-code=https://github.com/openshift-quickstart/limesurvey-quickstart
 
 
 That's it, you can now checkout your application at:

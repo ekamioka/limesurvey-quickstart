@@ -7,7 +7,7 @@ More information can be found at the official LimeSurvey website (www.limesurvey
 Running on OpenShift
 --------------------
 
-Create an account at http://openshift.redhat.com/ and install the client tools (rhc 'rhc setup' first)
+Create an account at https://www.openshift.com and install the client tools (rhc 'rhc setup' first)
 
 Create a PHP application
 

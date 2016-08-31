@@ -1,4 +1,4 @@
-LimeSurvey on OpenShift
+LimeSurvey 2.51.0+160829 on OpenShift
 =========================
 LimeSurvey allows users to quickly create intuitive, powerful, online question-and-answer surveys that can work for tens to thousands of participants without much effort. The survey software itself is self-guiding for the respondents who are participating. 
 
